@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch=".." />
+           fetch="android.googlesource.com" />
 
   <remote  name="kiko"
 	   fetch="https://github.com/barracuda-M40" />
